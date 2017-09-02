@@ -1,0 +1,94 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #f7f7f7;
+  
+  background: -moz-linear-gradient(45deg, #f7f7f7 0%, #efece8 100%);
+ 
+  background: -webkit-linear-gradient(45deg, #f7f7f7 0%, #efece8 100%);
+ 
+  background: linear-gradient(45deg, #f7f7f7 0%, #efece8 100%);}
+
+
+
+.header {
+  background-image: url( Photos/pattern.jpeg);
+  height: 400px;
+  background-position:center center;
+  text-shadow: -2px 0 #000000,0 2px #FFFFFF,2px 0 #FFFFFF,0 -2px #FFFFFF;
+  background-size: cover;
+  background-repeat: no-repeat;}
+
+h1 {
+ 
+  color: rgba(240,230,140, 0.75);
+  font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 40%;}
+
+
+
+
+h2 {
+  color: white;
+  font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  font-size: 32px;
+  font-weight:bold;
+  text-align: left;}
+
+	
+
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 90%; }
+
+li {
+  border-bottom: 1px solid #F0E68C;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;}
+
+p {
+  color: #000;
+  line-height: 32px;
+  font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+  font-size: 25px;
+  font-weight: 100;}
+
+.subhead {
+	
+	font-weight: bold;
+	color: #000;}
+
+strong {
+	
+color: blue;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+font-weight:bold;}
+
+
+
+
+
+#Brushes{
+	 
+	width: 100%;
+	margin-right: -400;
+	background-color:mediumspringgreen;}
+#Frames{
+
+	width: 100%;
+margin-right: -400;
+	 
+	background-color: lightcoral;}
+#Paint{
+	 
+	width: 100%;
+	 margin-right: -400;
+	background-color: skyblue;}
