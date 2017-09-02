@@ -12,7 +12,7 @@ body {
 
 
 .header {
-  background-image: url( Photos/pattern.jpeg);
+  background-image: url(Photos/pattern.jpeg);
   height: 400px;
   background-position:center center;
   text-shadow: -2px 0 #000000,0 2px #FFFFFF,2px 0 #FFFFFF,0 -2px #FFFFFF;
@@ -79,16 +79,16 @@ font-weight:bold;}
 #Brushes{
 	 
 	width: 100%;
-	margin-right: -400;
+	/*margin-right: -400px;*/
 	background-color:mediumspringgreen;}
 #Frames{
 
 	width: 100%;
-margin-right: -400;
+/*margin-right: -400px;*/
 	 
 	background-color: lightcoral;}
 #Paint{
 	 
 	width: 100%;
-	 margin-right: -400;
+	/* margin-right: -400px;*/
 	background-color: skyblue;}
